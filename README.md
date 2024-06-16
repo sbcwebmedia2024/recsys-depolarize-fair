@@ -1,12 +1,8 @@
-<h1 align="center">
-    <img alt="RVM" src="https://github.com/sbcwebmedia2024/recsys-depolarize-fair/blob/main/assets/logo.jpg" />
-</h1>
-
 <h3 align="center">
   RecSys-Depolarize-Fair
 </h3>
 
-<p align="center">: Elaboração de uma Estratégia de Despolarização e Justiça Individual em Sistemas de Recomendação. </p>
+<p align="center">Elaboração de uma Estratégia de Despolarização e Justiça Individual em Sistemas de Recomendação. </p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sbcwebmedia2024/recsys-depolarize-fair?color=%2304D361">
