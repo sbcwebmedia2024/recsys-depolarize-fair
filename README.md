@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#-sobre">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## :page_with_curl: Sobre o projeto <a name="-sobre"/></a>
 
 Sistemas de recomendação são essenciais para ajudar os usuários a encontrar conteúdo relevante, mas enfrentam desafios como bolhas de filtro e justiça individual de itens. Bolhas de filtro limitam a exposição a informações diversas, e a injustiça impede a recomendação equitativa de itens menos populares. Este artigo apresenta o RecSys-Depolarize-Fair, uma estrutura para reduzir a polarização e promover recomendações justas, utilizando métricas de polarização e justiça para os itens. Experimentos mostram que o algoritmo reduz efetivamente a polarização e equilibra as recomendações sem afetar significativamente a precisão. 
